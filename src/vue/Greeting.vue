@@ -25,6 +25,9 @@ export default {
 </script>
 
 <style scoped>
+  body {
+    background-color: #333333;
+  }
   h1 {
     color: red;
   }
